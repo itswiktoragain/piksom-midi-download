@@ -1,0 +1,17 @@
+#the_logo {
+    background-color: black;
+    border-radius: 15px;
+    padding: 10px;
+}
+body {
+    /* ahh styling */
+    background-color: #7e7e7e;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+/* Making links italic and make them white and make the underline dotted */
+a {
+    font-style: italic;
+    color: white;
+    text-decoration: underline dotted;
+}
